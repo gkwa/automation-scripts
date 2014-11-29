@@ -1,0 +1,12 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Startpage HTTPS</ShortName>
+  <Description>Startpage Search Plugin</Description>
+  <OutputEncoding>utf-8</OutputEncoding>
+  <InputEncoding>utf-8</InputEncoding>
+  <Image height="16" width="16" type="image/icon">https://startpage.com/favicon.ico</Image>
+  <Url type="text/html" method="POST" template="https://startpage.com/do/metasearch.pl">
+  <Param name="query" value="{searchTerms}" /> 
+  <Param name="cat" value="web" /> 
+  <Param name="language" value="english" /> 
+  </Url><moz:SearchForm>https://startpage.com</moz:SearchForm>
+</OpenSearchDescription>

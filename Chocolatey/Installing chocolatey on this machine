@@ -1,0 +1,20 @@
+Installing chocolatey on this machine
+Creating ChocolateyInstall as an Environment variable (targeting 'Machine') and setting it to 'C:\ProgramData\chocolatey
+'
+We are setting up the Chocolatey repository for NuGet packages that should be at the machine level. Think executables/ap
+plication packages, not library packages.
+That is what Chocolatey NuGet goodness is for. The repository is set up at 'C:\ProgramData\chocolatey'.
+The packages themselves go to 'C:\ProgramData\chocolatey\lib' (i.e. C:\ProgramData\chocolatey\lib\yourPackageName).
+A shim file for the command line goes to 'C:\ProgramData\chocolatey\bin' and points to an executable in 'C:\ProgramData\
+chocolatey\lib\yourPackageName'.
+
+Creating Chocolatey NuGet folders if they do not already exist.
+
+Copying the contents of 'C:\Users\larry\AppData\Local\Temp\chocolatey\chocInstall\tools\chocolateyInstall' to 'C:\Progra
+mData\chocolatey'.
+Chocolatey is now ready.
+You can call chocolatey from anywhere, command line or powershell by typing choco.
+Run choco /? for a list of functions.
+You may need to shut down and restart powershell and/or consoles first prior to using chocolatey.
+Ensuring chocolatey commands are on the path
+PS C:\Windows\system32>

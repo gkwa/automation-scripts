@@ -1,0 +1,8 @@
+
+
+
+
+
+# Finde 'Firefox' auf dem System
+
+Get-ChildItem -Path 'C:\' -Recurse -Include firefox.exe
