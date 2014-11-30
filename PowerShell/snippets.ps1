@@ -41,3 +41,34 @@ Get-ExecutionPolicy
 PS> Set-ExecutionPolicy bypass; get-executionPolicy
 
 PS> iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
+
+
+# Change Wallpaper / Theme
+
+# rundll32.exe %SystemRoot%\system32\shell32.dll,Control_RunDLL %SystemRoot%\system32\desk.cpl desk,@Themes /Action:OpenTheme /file:""YOUPATH to the .theme"""
+
+Function Set-WallPaper($Value)
+{
+ Set-ItemProperty -path 'HKCU:\Control Panel\Desktop\' -name wallpaper -value $value
+ rundll32.exe user32.dll, UpdatePerUserSystemParameters
+}
+
+Set-WallPaper -value "the path of you wallpaper"
+
+
+# You can invoke a Verb (Pin to Taskbar) using the Shell.Application COM object. Here's some example code
+
+# http://gallery.technet.microsoft.com/scriptcenter/b66434f1-4b3f-4a94-8dc3-e406eb30b750
+
+# The example is somewhat complicated. Here is a simplified version
+# C:\Program Files (x86)\Mozilla Firefox
+$shell = new-object -com "Shell.Application"  
+$folder = $shell.Namespace('C:\Windows')    
+$item = $folder.Parsename('notepad.exe')
+Then
+
+$verb = $item.Verbs() | ? {$_.Name -eq 'Pin to Tas&kbar'}
+if ($verb) {$verb.DoIt()}
+Or
+
+$item.invokeverb('taskbarpin')

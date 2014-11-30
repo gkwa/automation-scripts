@@ -1,8 +1,29 @@
 include chocolatey_sw
 
 
+windows::shortcut { 'C:\Users\larry\Desktop\vlc.lnk':
+  target      => 'C:\Program Files\VideoLAN\VLC\vlc',
+  description => 'VLC',
+}
 
 
+package { 'adblockplusie':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+package { 'adblockplusfirefox':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+package { 'adblockpluschrome':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
 
 /*
 CCEnhancer is a small tool which adds support for over 900 new programs into the popular program CCleaner. The tool uses the winapp2.ini system built into CCleaner to easily add new rules and definitions for programs. The rules were sourced mainly from the Piriform Support Forum, with several sourced from other places around the internet.
@@ -70,7 +91,7 @@ Driver Fusion is the complete device and driver solution for your PC that can ma
 
 
 package { 'driverfusion':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
@@ -79,7 +100,7 @@ package { 'driverfusion':
 /* requires confirmations */
 
 package { 'xplorer2':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
@@ -109,7 +130,7 @@ package { '7zip':
 }
 
 package { 'sharex':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
@@ -133,7 +154,7 @@ package { 'grepwin':
 }
 
 package { 'QTTabBar':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }

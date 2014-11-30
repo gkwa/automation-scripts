@@ -1,3 +1,26 @@
+# users
+
+user {
+  name    => Medienwerkstatt,
+  ensure  => present,
+  comment => 'Medienwerkstatt',
+  home    => 'C:\Users\medienwerkstatt',
+  managehome => true,
+  password => 'Mwst2010',
+}
+
+
+# registry
+
+
+ registry::value { 'KatMouse On Startup':
+  key   => 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run',
+  value => 'KatMouse',
+  data  => 'C:\Program Files (x86)\KatMouse\KatMouse.exe'
+}
+
+
+
  # /root/training-manifests/2.file.pp
 
     file {'/tmp/test1':
@@ -68,3 +91,43 @@ supports latest (checks upstream), absent (uninstall)
 supports install_options for pre-release, other cli
 
 
+include chocolatey_sw
+
+Full configuration options:
+
+class { 'chocolatey_sw':
+  command  => 'iex ...',                      # command to install Chocolatey
+  creates  => ['C:\ProgramData\chocolatey'],  # check for install directories
+  provider => powershell,                     # command Exec provider
+}
+
+
+
+Beispiel:
+
+include chocolatey_sw
+
+package { 'cygwin':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+
+# puppet module install rismoney-chocolatey
+# puppet module install ceritsc-chocolatey_sw
+
+
+
+C:\> choco install teamviewer.host
+TeamViewer Host 9.0.24951
+
+TeamViewer Host is running as a system service and is used for 24/7 access to remote computers, 
+including login/logout and remote reboot - optimized for server maintenance or home-office access
+
+
+
+windows::shortcut { 'C:\Users\justin\Desktop\python.lnk':
+  target      => 'C:\Python27\python.exe',
+  description => 'Python 2.7',
+}

@@ -1,6 +1,20 @@
 include chocolatey_sw
 
 
+
+
+/*
+
+
+
+*/
+
+package { 'Console2':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
 /*
 
 doesnt run, hangs after startup
