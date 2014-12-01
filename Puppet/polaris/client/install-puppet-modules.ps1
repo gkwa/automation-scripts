@@ -1,0 +1,1 @@
+puppet module install rismoney-chocolatey ceritsc-chocolatey_sw counsyl-windows 
