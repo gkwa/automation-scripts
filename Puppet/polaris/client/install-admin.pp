@@ -3,7 +3,11 @@ include chocolatey_sw
 
 
 
-
+package { 'driverbooster':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
 
 package { 'superantispyware':
   ensure   => present,
@@ -11,7 +15,7 @@ package { 'superantispyware':
   require  => Class['chocolatey_sw'],
 }
 
-package { 'sublimetext3':
+package { 'SublimeText2':
   ensure   => present,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
