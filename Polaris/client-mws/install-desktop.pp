@@ -45,6 +45,12 @@ package { 'flashplayeractivex':
   require  => Class['chocolatey_sw'],
 }
 
+/*
+
+  Screenshot utility
+
+*/
+
 
 package { 'greenshot':
   ensure   => present,
