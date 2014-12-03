@@ -1,5 +1,7 @@
 include chocolatey_sw
 
+/* Hardware driver update tools */
+
 
 package { 'driverbooster':
   ensure   => present,
@@ -7,11 +9,51 @@ package { 'driverbooster':
   require  => Class['chocolatey_sw'],
 }
 
+
+package { 'dumo':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+
+package { 'drivergenius':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+/*
+
+  Anti Spyware / Malware tools
+
+*/
+
 package { 'superantispyware':
   ensure   => present,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
+
+package { 'AdwCleanerPortable':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+package { 'JRTPortable':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+
+/*
+
+  Editor tools
+
+*/
+
 
 package { 'SublimeText2':
   ensure   => present,
@@ -20,11 +62,12 @@ package { 'SublimeText2':
 }
 
 
-package { 'speccy':
-  ensure   => present,
-  provider => 'chocolatey',
-  require  => Class['chocolatey_sw'],
-}
+/*
+
+  Cleaning tools: remove junk, uninstall cleanly
+
+*/
+
 
 package { 'ccleaner':
   ensure   => present,
@@ -40,6 +83,17 @@ package { 'Revo.Uninstaller':
 }
 
 
+/*
+
+  Hardware & Software info
+
+*/
+
+package { 'speccy':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
 
 
 /*

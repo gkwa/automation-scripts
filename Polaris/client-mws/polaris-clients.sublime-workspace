@@ -1,0 +1,1033 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"lay",
+				"layout-large"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"golde",
+				"golden-line-height-small"
+			],
+			[
+				"gol",
+				"golden-line-height"
+			],
+			[
+				"colo",
+				"color-background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"h1",
+				"h1-leading"
+			],
+			[
+				"log",
+				"logActiveWinAndTab"
+			],
+			[
+				"activ",
+				"activeTab"
+			],
+			[
+				"act",
+				"activeBrowserWindow"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"templ",
+				"template2"
+			],
+			[
+				"uri",
+				"uri_path_segments"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pa",
+				"parseUri"
+			],
+			[
+				"node",
+				"nodesGroup"
+			],
+			[
+				"nod",
+				"nodesGroup"
+			],
+			[
+				"this",
+				"thisNode"
+			],
+			[
+				"save",
+				"saveStorageToDisk"
+			],
+			[
+				"thi",
+				"thisNode"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"load",
+				"loadStorageFromDisk"
+			],
+			[
+				"url",
+				"getURL2"
+			],
+			[
+				"gro",
+				"groupRule"
+			],
+			[
+				"rol",
+				"roleSelectLabel"
+			],
+			[
+				"o",
+				"options"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"group",
+				"groupRole"
+			],
+			[
+				"optio",
+				"option1"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"nodes",
+				"nodesGroup"
+			],
+			[
+				"inde",
+				"indexToRemove"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"doc",
+				"documentElement"
+			],
+			[
+				"creat",
+				"createNav"
+			],
+			[
+				"dom",
+				"domain"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"doma",
+				"extractDomain"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"link",
+				"link1"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"ele",
+				"elemURL"
+			],
+			[
+				"elem",
+				"elemText"
+			],
+			[
+				"sto",
+				"contentStorage"
+			],
+			[
+				"new",
+				"newHead"
+			],
+			[
+				"nav",
+				"navigateHandler"
+			],
+			[
+				"nV",
+				"navigateHandler"
+			],
+			[
+				"mes",
+				"messageHandler"
+			],
+			[
+				"exte",
+				"extensionIsOn"
+			],
+			[
+				"elementIs",
+				"elementIsPartOfHeadline"
+			],
+			[
+				"xpa",
+				"xpathExpression"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"xp",
+				"xpathExpression"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"message",
+				"messageData"
+			],
+			[
+				"ge",
+				"getElementHierarchy"
+			],
+			[
+				"current",
+				"currentPatient"
+			],
+			[
+				"xr",
+				"xray_src"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"mess",
+				"messageData"
+			],
+			[
+				"ul",
+				"ul_big"
+			],
+			[
+				"ol",
+				"ol_big"
+			],
+			[
+				"u",
+				"ul_big"
+			],
+			[
+				"a_",
+				"a_i"
+			],
+			[
+				"rg",
+				"rgb_pairs"
+			],
+			[
+				"hsl",
+				"hsl_l"
+			],
+			[
+				"hsl_",
+				"hsl_b"
+			],
+			[
+				"hs",
+				"hsl_l"
+			],
+			[
+				"rgb_",
+				"rgb_a"
+			],
+			[
+				"rgb",
+				"rgb_b"
+			],
+			[
+				"del",
+				"delta_e"
+			],
+			[
+				"la",
+				"lab_2"
+			],
+			[
+				"cha",
+				"chapter_body"
+			],
+			[
+				"ch",
+				"chapter_html"
+			],
+			[
+				"fil",
+				"file_out_suf"
+			],
+			[
+				"out",
+				"file_out"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mat",
+				"matchObj"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"data",
+				"data_store"
+			],
+			[
+				"in",
+				"insert_at_lineno"
+			],
+			[
+				"ostr",
+				"ostr_even"
+			],
+			[
+				"str",
+				"str_even"
+			],
+			[
+				"page",
+				"pagenumber"
+			],
+			[
+				"n",
+				"n_url"
+			],
+			[
+				"tmp",
+				"tmp_file_1"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"playlist_",
+				"playlist_filename_all"
+			],
+			[
+				"playlist_fil",
+				"playlist_filename_shorts"
+			],
+			[
+				"pwd",
+				"pwdpath_length"
+			],
+			[
+				"path",
+				"path_b"
+			],
+			[
+				"path_",
+				"path_a_length"
+			],
+			[
+				"targ",
+				"target_duration_min"
+			],
+			[
+				"fi",
+				"filepath"
+			],
+			[
+				"playl",
+				"playlist_file"
+			],
+			[
+				"play",
+				"playlist_file"
+			],
+			[
+				"max",
+				"target_duration_max"
+			],
+			[
+				"pla",
+				"playlist_file"
+			],
+			[
+				"tar",
+				"target_duration_max"
+			],
+			[
+				"pl",
+				"playlist_file"
+			],
+			[
+				"tart",
+				"target_duration_min"
+			],
+			[
+				"tm",
+				"tmp_file_2"
+			],
+			[
+				"tmp_",
+				"tmp_file_2"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cov",
+				"cover_dir"
+			],
+			[
+				"im",
+				"image_filepath"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "install-admin.pp",
+			"settings":
+			{
+				"buffer_size": 3867,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "install-desktop.pp",
+			"settings":
+			{
+				"buffer_size": 1724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "install-multimedia.pp",
+			"settings":
+			{
+				"buffer_size": 3691,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "install-office.pp",
+			"settings":
+			{
+				"buffer_size": 2635,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "install-puppet-modules.ps1",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stef/WebDev/WebstormTestProject/bower_components/font-awesome/css/font-awesome.css",
+		"/Users/stef/WebDev/WebstormTestProject/fontcustom.yml",
+		"/Users/stef/WebDev/WebstormTestProject/bower_components/font-awesome/css/font-awesome.min.css",
+		"/Users/stef/WebDev/WebstormTestProject/universum.html",
+		"/Users/stef/WebDev/WebstormTestProject/css/universum.css",
+		"/Users/stef/WebDev/WebstormTestProject/sass/universum.scss",
+		"/Users/stef/WebDev/WebstormTestProject/css/breakpoints.css",
+		"/Users/stef/WebDev/WebstormTestProject/sass/breakpoints.scss",
+		"/Users/stef/WebDev/WebstormTestProject/breakpoints.html",
+		"/Users/stef/WebDev/WebstormTestProject/css/unterschiede.css",
+		"/private/etc/puppet/autosign.conf",
+		"/Users/stef/Library/Caches/com.apple.Safari/fsCachedData/6A09955D-335A-4016-B214-12D1E3E4AD0B",
+		"/Users/stef/Documents/Webdesign/terminal/terminal.html",
+		"/Users/stef/Documents/Safari Extensions/InterZen.safariextension/start-templates.js",
+		"/Users/stef/Documents/Safari Extensions/InterZen.safariextension/templates/foo.txt",
+		"/Users/stef/FIGU/Websites/Headlines/003.html",
+		"/Users/stef/FIGU/Websites/Headlines/002.html",
+		"/Users/stef/FIGU/Websites/Headlines/v.0.0.2.html",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/xraycore.mod.0.1.css",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/xraycore.css",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/interzen-utils.js",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/interzen-start.js",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/trash.html",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/interzen-bar.html",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/interzen-global.html",
+		"/Users/stef/Documents/Safari Extensions/interzen-0.2/InterZen.safariextension/interzen-end.js",
+		"/Users/stef/Documents/Safari Extensions/InterZen-Modules.safariextension/interzen-utils.js",
+		"/Users/stef/Documents/Safari Extensions/InterZen-Modules.safariextension/interzen-bar",
+		"/Users/stef/FIGU/Dokumente/DODEKALOG.html",
+		"/Users/stef/FIGU/Dokumente/lato.css",
+		"/Users/stef/FIGU/DEKALOG - HTML/fonts.css",
+		"/Users/stef/FIGU/DEKALOG - HTML/0.2/darkly.css",
+		"/Users/stef/Playlist All.m3u",
+		"/Users/stef/Playlist Shorts.m3u",
+		"/Users/stef/Playlist Features.m3u",
+		"/Users/stef/FIGU/Websites/Headlines/v.0.0.1.html",
+		"/Users/stef/Documents/Safari Extensions/test/Foo.safariextension/xraycore.css",
+		"/Users/stef/Documents/Safari Extensions/test/Foo.safariextension/inject.js",
+		"/Users/stef/Documents/Safari Extensions/test/Foo.safariextension/thexray.mod.01.js",
+		"/Users/stef/Documents/Safari Extensions/test/Foo.safariextension/thexray.js",
+		"/Users/stef/MAMP-HTDocs/v5/404.html",
+		"/Users/stef/Documents/Python/goose.test.py",
+		"/Users/stef/Documents/imgcolorgentest.py",
+		"/Users/stef/FIGU/Kelch/E-Buch/kdw.c1.xhtml",
+		"/Users/stef/FIGU/Kelch/E-Buch/kdw.clean.text.xmlgen.py",
+		"/Users/stef/FIGU/kdw.clean.text.xmlgen.py",
+		"/Users/stef/FIGU/Kelch/E-Buch/kdw.clean.text.xml",
+		"/Volumes/MacHD-3TB/video.playlist.gen.sh",
+		"/Users/stef/FIGU/Websites/Reader/css/sticky-footer-navbar.css",
+		"/Users/stef/FIGU/Kelch/kdw.screensaver.text.xml",
+		"/Users/stef/Library/Screen Savers/kdw.screensaver.text.xml",
+		"/Users/stef/FIGU/Websites/Reader/pages/page4.html",
+		"/Users/stef/Downloads/jscroll-master/jscroll.jquery.json",
+		"/Users/stef/FIGU/Websites/Reader/pages/page1.html",
+		"/Users/stef/FIGU/Websites/Reader/pages/page2.html",
+		"/Users/stef/FIGU/Websites/Reader/pages/page3.html",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/articles/templates/base.html",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysitestatic/index.html",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/_output/index.html",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/mysite/renderer.py",
+		"/Users/stef/FIGU/Kelch/kdw.xmlgen.py",
+		"/Users/stef/FIGU/Kelch/kelch-titel.txt",
+		"/Users/stef/cactus-test-export/index.html",
+		"/Users/stef/FIGU/Kelch/kdw.getrennte.saetze.txt",
+		"/Users/stef/Documents/My Cactus Demo Blog Site/pages/posts/articles/2014/hello-my-name-is-jack.html",
+		"/Users/stef/FIGU/Kelch/kdw.html.2.xml.4.screensaver.xml",
+		"/Users/stef/FIGU/Kelch/preceding.lines.txt",
+		"/Users/stef/FIGU/Kelch/texts.txt",
+		"/Users/stef/FIGU/Kelch/text.xml",
+		"/Users/stef/FIGU/Kelch/kelch-der-wahrheit-p-54-p-436.xml",
+		"/Users/stef/FIGU/Kelch/kdw.html.2.xml.4.screensaver.py",
+		"/Users/stef/FIGU/Kelch/kdw.simplify.xml.py",
+		"/Users/stef/FIGU/Kelch/kelch-der-wahrheit-screensaver.xml",
+		"/Users/stef/FIGU/Kelch/kelch_der_wahrheit-xml_konverter_#2.py",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/articles/views.py",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/articles/templates/articles/article_list.html",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/articles/templates/articles/article.html",
+		"/Users/stef/FIGU/Websites/News/django-env-1/mysite/articles/tests.py",
+		"/Users/stef/BEAM & FIGU/News-website/figu.news.bootstrap-1.html",
+		"/Users/stef/BEAM & FIGU/Fehlerseite/Test-1/figu.form.html",
+		"/Users/stef/BEAM & FIGU/Fehlerseite/Test-1/tbp-2.html",
+		"/Users/stef/BEAM & FIGU/Fehlerseite/Test-1/the-big-picture.css",
+		"/Users/stef/Documents/QC/randomize.array.js",
+		"/Users/stef/Documents/nodebb",
+		"/Users/stef/BEAM & FIGU/Fehlerseite/Test-1/1-landing.html",
+		"/Users/stef/Downloads/Canisbos/Quickstyle.safariextz",
+		"/Users/stef/Documents/pdf.md",
+		"/Users/stef/Downloads/FiguBulletinKompletBisJuni2014DumpWBookmarks.txt",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/kelch_der_wahrheit_toc.py",
+		"/Users/stef/Desktop/vidlistgen.sh",
+		"/Users/stef/Documents/OS X/create-dmg.sh",
+		"/Volumes/MacHD-3TB/Disney Pixar/playlist_generator.sh",
+		"/Volumes/MacHD-3TB/Disney Pixar/generate_shorts_playlist.sh",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/kelch_der_wahrheit_toc.sh",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/kelch-der-wahrheit.xml",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/kelch_der_wahrheit_bookmarks.sh",
+		"/Users/stef/Documents/figubulletinindexgen.py",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/copy_bookmarks_into_infofile.sh",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/kelch-der-wahrheit-pdftk-dump.txt",
+		"/Users/stef/BEAM & FIGU/Dokumente & Leseproben/kelch-der-wahrheit.html",
+		"/Users/stef/Apple/MetalProgrammingGuide.pdf",
+		"/Users/stef/Documents/Python/docs/encoding.py",
+		"/Users/stef/FiguBulletinKompletBisJuni2014-Inhalt-V1.txt",
+		"/Users/stef/Downloads/FiguBulletinKompletBisJuni2014-html.html",
+		"/Users/stef/Movies/duration_threshold",
+		"/Users/stef/Desktop/Playlist All.m3u",
+		"/Users/stef/Desktop/Playlist Features.m3u",
+		"/Users/stef/Desktop/Playlist Shorts.m3u",
+		"/Users/stef/vidlistgen.sh",
+		"/Users/stef/Music/vidplaygen.sh",
+		"/Users/stef/Music/Playlist.pls",
+		"/Users/stef/Music/Playlist Shorts.pls",
+		"/Users/stef/Music/Playlist All.pls",
+		"/Users/stef/Music/1800000",
+		"/Volumes/MacHD-3TB/Disney Pixar/test.xspf",
+		"/Users/stef/Sync/dev/nova/wait_until_midnight_and_record_whole_night.sh",
+		"/private/tmp/vidplaygen/Music/iTunes/iTunes Media/iTunes U/Vintage Mac Video/1-37 WWDC 1996 Steve Jobs's  Vision for Apple.mp4",
+		"/private/tmp/vidplaygen/Music/Ringtones/Cinematic Orchestra-Transformation.m4r",
+		"/Users/stef/Movies/video_playlist_gen.sh",
+		"/Users/stef/Movies/vidplaygen2.sh",
+		"/private/tmp/vidplaygen/Movies/Hackers.1995.720p.BrRip.x264.YIFY/Hackers.1995.720p.BrRip.x264.YIFY.mp4",
+		"/private/tmp/vidplaygen/Movies/iMovie Library.imovielibrary/2014-01-24/Original Media/Joe Rogan Experience #446 - Andreas Antonopoulos.mp4",
+		"/Users/stef/Documents/video_playlist_gen.sh",
+		"/private/tmp/vidgen/Disney Pixar/2012 Wreck-It Ralph/Wreck-It.Ralph.2012.1080p.BluRay.DTS.x264-CyTSuNee/Wreck-It.Ralph.2012.1080p.BluRay.DTS.x264-CyTSuNee.mkv",
+		"/Volumes/MacHD-3TB/Disney Pixar/2012 Wreck-It Ralph/Wreck-It Ralph - Clip - Featurette.mov",
+		"/private/tmp/vidgen/2012 Wreck-It Ralph/Wreck-It.Ralph.2012.1080p.BluRay.DTS.x264-CyTSuNee/Wreck-It.Ralph.2012.1080p.BluRay.DTS.x264-CyTSuNee.mkv",
+		"/Volumes/MacHD-3TB/Disney Pixar/2012 Wreck-It Ralph/Wreck-It.Ralph.2012.1080p.BluRay.DTS.x264-CyTSuNee/Wreck-It.Ralph.2012.1080p.BluRay.DTS.x264-CyTSuNee.mkv",
+		"/Users/stef/Library/Application Support/Dash/DocSets/Bootstrap_3/Bootstrap 3.docset/Contents/Resources/Documents/getbootstrap.com/examples/grid/grid.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"review.score"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loadLocalDataObjectAndTransformDocument",
+			"renderTemplate",
+			"json",
+			"addCSS",
+			"getDocumentWidth",
+			"can",
+			"addCSS",
+			"clearCanvas",
+			"insertCanvas",
+			"addCSS",
+			"elementIsGroupElement",
+			"loadStorageFromDisk",
+			"elementIsGroupElement",
+			"drawNod",
+			"drawSavedRules",
+			"loadStorageFromDisk",
+			"drawNodes",
+			"drawElementSkeleton",
+			"drawNodes",
+			"loadStorageFromDisk",
+			"drawNodes",
+			"loadS",
+			"xrayEvent2",
+			"storage",
+			"elementIsGroupElement",
+			"nodesMsgData",
+			"paragr",
+			"elementIsGroupElement",
+			"drawNodesWithSignature",
+			"var nodes",
+			"nodes",
+			"storage",
+			"inGr",
+			"xrayEvent",
+			"xrayEvent2",
+			"localSt",
+			"toggleExtension",
+			"xRayElement",
+			"getSimilarNodes",
+			"getElementHierarchy2",
+			"toLowerCase",
+			"road",
+			"xrayEvent2",
+			"uninstallXRAY",
+			"dragh",
+			"getElementHierarchy2",
+			"xRayElement",
+			"selectedElement",
+			"xRayEvent2",
+			"xRayElement",
+			"drawElementSkeleton",
+			"drawWidthLine",
+			"elementLeft",
+			"showC",
+			"closebox",
+			"css",
+			"xRayEvent",
+			"select",
+			"thierarchy",
+			"scrollto",
+			"scroll",
+			"xrayEl",
+			"xray",
+			"selected",
+			"css",
+			"xRayElement",
+			"getElementHi",
+			"currentPatient",
+			"getElementHierarchy",
+			"currentPa",
+			"var ",
+			"%20",
+			"get_nearby_href",
+			"h3",
+			"re.",
+			"h3",
+			"font-size",
+			"bund",
+			"tund",
+			"nund",
+			"Schliessung",
+			"sund",
+			"Einsicht (",
+			"<sn>1</sn>",
+			"<sn>0<",
+			"font=\"1",
+			"font=\"1\"",
+			"161) ",
+			"160) ",
+			" Kelch der Wahrheit",
+			" Kelch der Wahrheit ",
+			"Kelch der Wahrheit ",
+			"160)",
+			"sund",
+			"Post",
+			"hr",
+			"font",
+			"Abschnitt",
+			"F.I.G.U-Bulletin",
+			"316",
+			"FIGU-BULLETIN",
+			"3525",
+			"SONDER-BULLETIN",
+			"font=\"82\"",
+			"OFFENER BRIEF",
+			"WZ-Nr",
+			"sibling",
+			"WZ",
+			"OFFENER BRIEF",
+			"OFFENER",
+			"Eine liebe Überraschung über dem",
+			"Eine liebe Überraschung uber dem",
+			"An alle Frauen und Mädchen der Welt",
+			"An alle Frauen und Mädchen der Welt",
+			"duration_threshold",
+			"$",
+			"average",
+			"ship",
+			"shipping_address"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getNodesFromXPathWithRefNode",
+			"getXpathExpression",
+			"getSimilarNodes",
+			" ",
+			"get_url_nearby",
+			"Article",
+			"bill",
+			"billing_address"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "install-admin.pp",
+					"settings":
+					{
+						"buffer_size": 3867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "install-desktop.pp",
+					"settings":
+					{
+						"buffer_size": 1724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "install-multimedia.pp",
+					"settings":
+					{
+						"buffer_size": 3691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "install-office.pp",
+					"settings":
+					{
+						"buffer_size": 2635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "install-puppet-modules.ps1",
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PowerShell/Support/PowershellSyntax.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.538602615248,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
