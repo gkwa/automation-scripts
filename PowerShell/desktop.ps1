@@ -2,7 +2,7 @@
 {
  # Image
  Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop\' -Name wallpaper -Value $value
- # Style
+ # Style (0=Centered, 2=Filled)
  Set-ItemProperty -Path 'HKCU:\Control Panel\Desktop\' -Name WallpaperStyle -Value "2"
  # Update
  rundll32.exe user32.dll, UpdatePerUserSystemParameters
