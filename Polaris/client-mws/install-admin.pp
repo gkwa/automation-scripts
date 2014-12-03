@@ -36,13 +36,13 @@ package { 'superantispyware':
 }
 
 package { 'AdwCleanerPortable':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
 
 package { 'JRTPortable':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
