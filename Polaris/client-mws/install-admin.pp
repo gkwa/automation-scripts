@@ -11,7 +11,7 @@ package { 'driverbooster':
 
 
 package { 'dumo':
-  ensure   => present,
+  ensure   => absent,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
 }
@@ -42,6 +42,22 @@ package { 'AdwCleanerPortable':
 }
 
 package { 'JRTPortable':
+  ensure   => present,
+  provider => 'chocolatey',
+  require  => Class['chocolatey_sw'],
+}
+
+/*
+
+Combofix is a smart spyware and malware removal application known for its speed and effectiveness.
+ComboFix also displays a report that can be used by trained helpers to remove malware that is not automatically removed by the program.
+You should not run ComboFix unless you are specifically asked to by a helper.
+Also, due to the power of this tool it is strongly advised that you do not attempt to act upon any of the information displayed by ComboFix without supervision from someone who has been properly trained.
+If you do so, it may lead to problems with the normal functionality of your computer.
+
+*/
+
+package { 'combofix':
   ensure   => present,
   provider => 'chocolatey',
   require  => Class['chocolatey_sw'],
